@@ -1,0 +1,264 @@
+.btn {
+}
+.bg-white {
+    background: #fff !important;
+}
+.border {
+    border: 1px solid #ccc !important;
+}
+.rounded-pill {
+    border-radius: 50px !important;
+}
+.text-blue {
+    color: #6161ff !important;
+}
+.text-white {
+    color: #fff !important;
+}
+.mb-3 {
+    margin-bottom: 30px;
+}
+.pr-0 {
+    padding-right: 0;
+}
+.pt-3 {
+    padding-top: 30px;
+}
+.pl-4 {
+    padding-left: 40px;
+}
+.pr-3 {
+    padding-right: 30px;
+}
+.radius-19 {
+    border-radius: 19px;
+}
+.ml-3 {
+    margin-left: 30px;
+}
+.mb-0 {
+    margin-bottom: 0;
+}
+.w-100 {
+    width: 100%;
+}
+.mt-4 {
+    margin-top: 40px;
+}
+.mr-2 {
+    margin-right: 20px;
+}
+.float-right {
+    float: right;
+}
+.nav li a {
+    color: #fff;
+}
+.nav > li > a:focus,
+.nav > li > a:hover {
+    text-decoration: none !important;
+    background: none !important;
+}
+.navbar-nav {
+    float: left;
+    margin: 0;
+    margin-left: 13rem;
+    margin-top: 25px;
+}
+.banner {
+    background: url(https://filebin.net/d3nghl7z1v5m1ubd/Dog_Graphic_1.png) no-repeat right bottom #5906c2;
+    background-size: 40%;
+    padding-bottom: 4rem;
+}
+.banner p {
+    font-size: 18px;
+}
+.m {
+    margin-top: 80px;
+    font-size: 48px;
+}
+.banner .card {
+    background: #1bc0c0;
+}
+.radius-19 {
+    border-radius: 19px;
+}
+.border-cus {
+    width: 26px;
+    height: 26px;
+    border: 1px solid;
+    text-align: center;
+    line-height: 1.8;
+    margin-top: 10px;
+    border-radius: 50px;
+}
+.navbar-nav {
+    float: left;
+    margin: 8rem 0 0 12rem !important;
+}
+.navbar-brand {
+    margin-top: 5rem;
+    z-index: 15;
+    position: relative;
+}
+.pet {
+    color: #6161ff;
+}
+.bg-blue,
+.deal {
+    background: #6161ff;
+}
+.deal2 {
+    background: #ffa800;
+}
+.ssize {
+    font-size: 18px;
+    opacity: 50%;
+    padding: 0 37rem;
+    margin-bottom: 80px;
+}
+.p-5 {
+    padding: 2rem;
+}
+.mr-3 {
+    margin-right: 15px;
+}
+.ml-2 {
+    margin-left: 15px;
+}
+.mt-3 {
+    margin-top: 15px;
+}
+.navbar-toggle {
+    background: #fff !important;
+}
+.navbar-toggle .icon-bar {
+    background: #000;
+}
+.fs-12 {
+    font-size: 12px;
+}
+.fs-18 {
+    font-size: 18px;
+}
+.dropdown-toggle::after {
+    float: right;
+    margin-top: 5px;
+}
+.paw {
+    position: absolute;
+    top: 15px;
+    left: 26px;
+    padding: 0;
+}
+.paw li {
+    list-style: none;
+    float: left;
+    margin: 5px;
+}
+.paw li a {
+    background: url(https://filebin.net/d3nghl7z1v5m1ubd/Ellipse_4.png) no-repeat;
+    width: 36px;
+    height: 36px;
+    float: left;
+    text-align: center;
+}
+.bg-blue-dog {
+    background: url(https://filebin.net/d3nghl7z1v5m1ubd/Group_26.png) no-repeat left center #6161ff;
+    width: 80%;
+    height: 340px;
+    border-radius: 19px;
+    padding: 50px;
+    margin: 0 auto;
+}
+.doggie {
+    margin-top: 91px;
+}
+.ff {
+    height: 44px;
+}
+footer {
+    margin-top: 12rem;
+}
+.blueTxt {
+    color: #6161ff;
+}
+footer ul {
+    padding: 0;
+}
+footer ul li {
+    list-style: none;
+}
+footer ul li a {
+    color: #000;
+    font-size: 14px;
+}
+footer h4 {
+    margin-bottom: 15px;
+    font-size: 14px;
+}
+.social li {
+    float: left;
+    margin: 15px 5px;
+}
+.margin-top-1 {
+    margin-top: 190px;
+}
+.margin-top-2 {
+    margin-top: 130px;
+}
+.margin-top-3 {
+    margin-top: 200px;
+    background: #f6ffff;
+    padding: 100px 0;
+}
+
+@media all and (max-width: 1024px) {
+    .ssize {
+        padding: 0 5rem;
+    }
+    .login {
+        position: absolute !important;
+        top: -29px;
+        right: 110px;
+    }
+}
+@media all and (max-width: 767px) {
+    .doggie {
+        display: none;
+    }
+
+    .bg-blue-dog {
+        width: 100%;
+        padding: 20px;
+    }
+    .margin-top-1 {
+        margin-top: 40px;
+    }
+    .margin-top-2 {
+        margin-top: 40px;
+    }
+    .margin-top-3 {
+        margin-top: 40px;
+        background: #f6ffff;
+        padding: 40px 0;
+    }
+    .ssize {
+        margin-bottom: 30px;
+    }
+}
+@media all and (max-width: 480px) {
+    .m {
+        margin-top: 40px;
+        font-size: 30px;
+    }
+    footer {
+        margin-top: 5rem;
+    }
+    h1{
+        font-size: 26px !important;
+    }
+    .fs-18 {
+        font-size: 16px;
+    }
+}
